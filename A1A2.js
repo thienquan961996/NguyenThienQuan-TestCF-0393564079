@@ -18,7 +18,7 @@ function mergeArray(A1, A2) {
             // console.log(result_arr)
         } else {
             result_arr.splice(result_arr.indexOf(A2[i]), 1)
-            console.log(result_arr)
+            // console.log(result_arr)
         }
     }
     return result_arr
