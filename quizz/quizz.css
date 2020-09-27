@@ -13,21 +13,3 @@
     background-size: cover;
 
 }
-.quiz_wrapper {
-    height: 100vh;
-    width: 70%;
-    overflow-y: auto;
-}
-.question_header {
-    color:#00FF00
-}
-.football_form {
-    display: flex;
-    flex-direction: column;
-}
-.quiz_wrapper .question {
-    color :#FFFF00
-}
-.quiz_wrapper .answer {
-    color :#FFFF00	
-}
